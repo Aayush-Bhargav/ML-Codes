@@ -15,7 +15,8 @@ The initial stage involves performing exploratory data analysis (EDA) and prepro
   - Analyzes the datasets to identify patterns, missing values, and outliers.
   - Applies preprocessing steps such as handling missing data, feature engineering, and scaling.
   - Outputs the processed datasets as `Processed_train.csv` and `Processed_test.csv`, which are used in subsequent modeling steps.
-  - ### Decision Tree, KNN, Random Forest, Gradient Boosting, AdaBoost, XGBoost, and Naive Bayes
+    
+ ### Decision Tree, KNN, Random Forest, Gradient Boosting, AdaBoost, XGBoost, and Naive Bayes
     The following models are implemented and evaluated:
     - Decision Tree
     - K-Nearest Neighbors (KNN)
@@ -24,7 +25,8 @@ The initial stage involves performing exploratory data analysis (EDA) and prepro
     - AdaBoost
     - XGBoost
     - Naive Bayes
-    Implementation details can be found in the respective files:
+   
+Implementation details can be found in the respective files:
 - **`RandomForest_AdaBoost_GradientBoosting_DecisionTrees_KNearestNeighbours.ipynb`**
   - Implements Decision Tree, KNN, Random Forest, Gradient Boosting, and AdaBoost.
 - **`XGBOOST_Naive_Bayes.ipynb`**
