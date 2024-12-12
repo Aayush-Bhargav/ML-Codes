@@ -2,12 +2,6 @@
 
 This repository contains the implementation of a machine learning assignment divided into two parts. The datasets used in this project are `train.csv` for training and `test.csv` for testing. The workflow includes preprocessing, exploratory data analysis, and applying a variety of machine learning models.
 
-## Table of Contents
-- [Part 1: Preprocessing and Models](#part-1-preprocessing-and-eda)
-   - [Decision Tree, KNN, Random Forest, Gradient Boosting, AdaBoost, XGBoost, and Naive Bayes](#decision-tree-knn-random-forest-gradient-boosting-adaboost-xgboost-and-naive-bayes)
-- [Part 2: Models](#part-2-models)
-  - [Logistic Regression, SVM, and Neural Networks](#logistic-regression-svm-and-neural-networks)
-
 ## Part 1: Preprocessing, EDA and Models
 The initial stage involves performing exploratory data analysis (EDA) and preprocessing on the training and test datasets. This step is implemented in the following file:
 
