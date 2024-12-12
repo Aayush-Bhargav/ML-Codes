@@ -12,13 +12,13 @@ The initial stage involves performing exploratory data analysis (EDA) and prepro
     
  ### Decision Tree, KNN, Random Forest, Gradient Boosting, AdaBoost, XGBoost, and Naive Bayes
  In the first part, seven models are implemented:
-    - Decision Tree
-    - K-Nearest Neighbors (KNN)
-    - Random Forest
-    - Gradient Boosting
-    - AdaBoost
-    - XGBoost
-    - Naive Bayes    
+  - Decision Tree
+  - K-Nearest Neighbors (KNN)
+  - Random Forest
+  - Gradient Boosting
+  - AdaBoost
+  - XGBoost
+  - Naive Bayes    
    
 Implementation details can be found in the respective files:
 - **`RandomForest_AdaBoost_GradientBoosting_DecisionTrees_KNearestNeighbours.ipynb`**
